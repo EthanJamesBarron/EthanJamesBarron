@@ -40,9 +40,9 @@
         <h1>About Me</h1>
         <img src="https://github-readme-stats-fast.vercel.app/api?username=ethanjamesbarron&theme=dracula">
         <br><br>
-        Hey, I'm Ethan Barron, I'm a 16 year old avid computer nerd, I LOVE making stuff, more specifically I love game development in my choice of engine Unity, and I love modding games, it's a very good way to exercise your skills and further learn how to better approach something you may struggle with!
+        Hey, I'm Ethan Barron, I'm a 16 year old avid computer nerd, and I LOVE making stuff! More specifically I love game development in my choice of engine Unity, and I love modding games (it's a very good way to exercise your skills and further learn how to better approach something you may struggle with!)
         <br><br>
-        I grew up south of England and got hooked on computers at 7. Beyond that, my programming and game development journey began when I was 10 back in 2019
+        I grew up south of England and got hooked on computers at 7. Beyond that, my programming and game development journey began when I was 10 back in 2019 and has continued ever since
         <br><br>
         I've never fully solo'd a project aside from an older project known as
         <a href="https://github.com/EthanJamesBarron/ATT-Hypha" target="_blank">Hypha</a>,
