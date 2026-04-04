@@ -38,7 +38,7 @@
         <!-- About Me -->
     <div>
         <h1>About Me</h1>
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=ethanjamesbarron&theme=dracula">
+        <img src="https://github-readme-stats-rust-rho-80.vercel.app/api?username=ethanjamesbarron&theme=dracula">
         <br><br>
         Hey, I'm Ethan Barron, I'm a 16 year old avid computer nerd, and I LOVE making stuff! More specifically I love game development in my choice of engine Unity, and I love modding games (it's a very good way to exercise your skills and further learn how to better approach something you may struggle with!)
         <br><br>
