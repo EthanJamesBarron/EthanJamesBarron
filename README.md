@@ -42,10 +42,7 @@
         <br><br>
         I grew up south of England and got hooked on computers at 7. Beyond that, my programming and game development journey began when I was 10 back in 2019 and has continued ever since
         <br><br>
-        I've never fully solo'd a project aside from an older project known as
-        <a href="https://github.com/EthanJamesBarron/ATT-Hypha" target="_blank">Hypha</a>,
-        which was an almost very successful attempt to revive A Township Tale through allowing for custom player hosted servers.
-        Instead, you'll find a lot of my contributions in my private repositories or the Gang Beasts Modding tools
+        You'll find a lot of my contributions in my private repositories or the Gang Beasts Modding tools
         <a href="https://github.com/CementGB-4-0/CementSource" target"_blank">Cement</a>
         and the
         <a href="https://github.com/CementGB-4-0/GBMDK" target"_blank">GBMDK</a>
