@@ -46,5 +46,7 @@
         <a href="https://github.com/CementGB-4-0/CementSource" target"_blank">Cement</a>
         and the
         <a href="https://github.com/CementGB-4-0/GBMDK" target"_blank">GBMDK</a>
+        , or for A Township Tale, 
+        <a href="https://github.com/ModdingTavern/TavernLib" target"_blank">TavernLib</a>
     </div>
 </div>
